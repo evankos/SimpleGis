@@ -1,0 +1,4 @@
+Flask==0.12
+gunicorn==19.7.1
+flask-restful
+uszipcode==0.1.2
